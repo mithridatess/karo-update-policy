@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "policySeq": 1,
+  "policySeq": 3,
   "enforce": true,
   "minBuild": 2,
   "minVersion": "2.0-test",
