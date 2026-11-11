@@ -1,8 +1,8 @@
 {
   "v": 1,
-  "policySeq": 2,
-  "enforce": false,
+  "policySeq": 1,
+  "enforce": true,
   "minBuild": 2,
   "minVersion": "2.0-test",
-  "message": "آزمایش موقت: دسترسی به کارو آزاد است."
+  "message": "برای ادامه استفاده از کارو، لطفاً برنامه را به نسخه جدید به‌روزرسانی کنید."
 }
